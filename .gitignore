@@ -1,6 +1,7 @@
 /.tox/
 /coverage/
 /venv/
+/dist/
 __pycache__/
 /.coverage
 *.egg*
