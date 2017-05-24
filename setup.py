@@ -45,13 +45,13 @@ setup(
     author='Jacek Dudek',
     author_email='jacek.dudek@urbantide.com',
     description='USMART SDK',
-    download_url='',
+    download_url='https://github.com/UrbanTide/usmart-sdk-py/archive/1.0.1.tar.gz',
     cmdclass={
         'coverage': Coverage,
     },
     install_requires=[
     ],
-    license='Apache License (2.0)',
+    license='MIT',
     name='usmart_sdk',
     packages=[
         'usmart_sdk',
