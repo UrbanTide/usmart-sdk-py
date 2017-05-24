@@ -8,6 +8,7 @@ env:
   - TOXENV=lint
 install:
   - pip install -r requirements-dev.txt
+  - pip install coveralls
 matrix:
   fast_finish: true
 script:
@@ -19,6 +20,6 @@ after_success:
   - |
       if [ "$BUILD_LEADER" = "YES" ]; then
         if [ "$BUILD_AGGREGATE_STATUS" = "others_succeeded" ]; then
-          python setup.py coverage && codecov
+          python setup.py coverage && coveralls
         fi
       fi
