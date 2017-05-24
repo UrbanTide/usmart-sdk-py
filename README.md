@@ -1,7 +1,7 @@
 # USMART SDK
 
-[![Build Status](https://travis-ci.org/jacekgdudek/usmart_sdk.svg?branch=master)](https://travis-ci.org/jacekgdudek/usmart_sdk)
-[![codecov.io](https://codecov.io/gitlab/hbetts/orbitalpy/coverage.svg?branch=master)](https://codecov.io/gitlab/jacekgdudek/usmart_sdk?branch=master)
+[![Build Status](https://travis-ci.org/urbantide/usmart-sdk-py.svg?branch=master)](https://travis-ci.org/urbantide/usmart-sdk-py)
+[![Coverage Status](https://coveralls.io/repos/github/UrbanTide/usmart-sdk-py/badge.svg?branch=master)](https://coveralls.io/github/UrbanTide/usmart-sdk-py?branch=master)
 
 About this project...
 
