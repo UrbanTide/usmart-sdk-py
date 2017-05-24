@@ -1,6 +1,6 @@
 # USMART SDK
 
-[![Build Status](https://travis-ci.org/urbantide/usmart-sdk-py.svg?branch=master)](https://travis-ci.org/urbantide/usmart-sdk-py)
+[![Build Status](https://api.travis-ci.org/UrbanTide/usmart-sdk-py.svg?branch=master)](https://travis-ci.org/UrbanTide/usmart-sdk-py)
 [![Coverage Status](https://coveralls.io/repos/github/UrbanTide/usmart-sdk-py/badge.svg?branch=master)](https://coveralls.io/github/UrbanTide/usmart-sdk-py?branch=master)
 
 About this project...
