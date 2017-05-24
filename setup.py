@@ -44,7 +44,7 @@ class Coverage(Command):
 setup(
     author='Jacek Dudek',
     author_email='jacek.dudek@urbantide.com',
-    description='sdk',
+    description='USMART SDK',
     download_url='',
     cmdclass={
         'coverage': Coverage,
@@ -52,9 +52,9 @@ setup(
     install_requires=[
     ],
     license='Apache License (2.0)',
-    name='sdk',
+    name='usmart_sdk',
     packages=[
-        'sdk',
+        'usmart_sdk',
     ],
     scripts=[],
     test_suite='tests',
@@ -65,6 +65,6 @@ setup(
         'tox>=2.3.1,<3.0.0',
         'virtualenv>=15.0.1,<16.0.0'
     ],
-    url='',
-    version='1.0.0'
+    url='https://github.com/UrbanTide/usmart-sdk-py',
+    version='1.0.1'
 )
